@@ -1,0 +1,2 @@
+The browser's YouTube.com login cookies file is stored here.
+浏览器youtube.con登录cookies文件存放在这里
